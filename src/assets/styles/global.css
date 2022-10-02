@@ -1,0 +1,15 @@
+:root {
+    --gray-100: #121214;
+    --gray-200: #202024;
+    --gray-300: #323238;
+    --green-100: #015F43;
+    --green-200: #00875F;
+    --red-100: #AA2834;
+    --red-200: #F75A68;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
